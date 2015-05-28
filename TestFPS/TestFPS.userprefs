@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TestFPS/Scripts/InputHandler.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="126" Column="18" />
+      <File FileName="Assets/TestFPS/Scripts/NetworkManager.cs" Line="4" Column="27" />
+      <File FileName="Assets/TestFPS/Scripts/InputHandler.cs" Line="103" Column="3" />
+      <File FileName="Assets/TestFPS/Scripts/GameServer.cs" Line="21" Column="5" />
+      <File FileName="Assets/TestFPS/Scripts/FPSPlayer.cs" Line="122" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
